@@ -14,6 +14,6 @@
   {
     "name": "Abeer",
     "image": "https://raw.githubusercontent.com/magfurulabeer/stubs/master/abeer.jpg"
-  },
+  }
 ]
 
