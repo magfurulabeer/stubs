@@ -1,18 +1,18 @@
 [
   {
     name: "Scott",
-    image: ""
+    image: "https://github.com/magfurulabeer/stubs/blob/master/scott.jpg"
   },
   {
     name: "Prateek",
-    image: ""
+    image: "https://github.com/magfurulabeer/stubs/blob/master/prateek.jpg"
   },
   {
     name: "Himanshu",
-    image: ""
+    image: "https://github.com/magfurulabeer/stubs/blob/master/himanshu.jpg"
   },
   {
     name: "Abeer",
-    image: ""
+    image: "https://github.com/magfurulabeer/stubs/blob/master/abeer.jpg"
   },
 ]
