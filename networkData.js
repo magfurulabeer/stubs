@@ -1,18 +1,18 @@
 [
   {
     "name": "Scott",
-    "image": "https://github.com/magfurulabeer/stubs/blob/master/scott.jpg"
+    "image": "https://raw.githubusercontent.com/magfurulabeer/stubs/master/scott.jpg"
   },
   {
     "name": "Prateek",
-    "image": "https://github.com/magfurulabeer/stubs/blob/master/prateek.jpg"
+    "image": "https://raw.githubusercontent.com/magfurulabeer/stubs/master/prateek.jpg"
   },
   {
     "name": "Himanshu",
-    "image": "https://github.com/magfurulabeer/stubs/blob/master/himanshu.jpg"
+    "image": "https://raw.githubusercontent.com/magfurulabeer/stubs/master/himanshu.jpg"
   },
   {
     "name": "Abeer",
-    "image": "https://github.com/magfurulabeer/stubs/blob/master/abeer.jpg"
+    "image": "https://raw.githubusercontent.com/magfurulabeer/stubs/master/abeer.jpg"
   },
 ]
